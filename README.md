@@ -36,7 +36,7 @@ I care deeply about backend fundamentals: clean database schema design, safe mig
 
 ## 💼 Experience Snapshot
 
-- 🐍 ~4 Years in Python Backend Development
+- 🐍 4 Years in Python Backend Development
 - ⚙️ Django, FastAPI, Django REST Framework (DRF), Flask
 - 🗄️ MySQL, PostgreSQL, SQLite, Django ORM, SQLAlchemy
 - 🔐 JWT Authentication, OAuth2, Role-Based Access Control (RBAC)
